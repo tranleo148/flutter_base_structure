@@ -1,0 +1,15 @@
+{
+    "@@locale": "en",
+    "appName": "Genshin Codex - GCodex",
+    "@appName": {
+        "description":"The name of the application"
+    },
+    "featureNotAvailableYet": "Feature not available yet",
+    "@featureNotAvailableYet": {
+        "description":"The message to show when a feature is not available yet"
+    },
+    "dismiss": "Dismiss",
+    "@dismiss": {
+        "description":"The label for the dismiss button"
+    }
+}
