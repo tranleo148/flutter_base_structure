@@ -20,7 +20,7 @@ This is a Flutter's base project structure follow on Clean Architecture with som
 
 Run following command to create new Flutter project folder:
 ```
-flutter create -a java --org com.yourdomain appname
+flutter create --org com.yourdomain appname
 ```
 After that, copy all these files and folders to your new project folder:
 - `\lib`
